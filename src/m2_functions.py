@@ -28,6 +28,7 @@ def main():
     """
     triangle(5, 10)
     color('blue', 15)
+    color('red', 2)
 
 ###############################################################################
 # Done: 3a.  Define a function immediately below this _TODO_.
